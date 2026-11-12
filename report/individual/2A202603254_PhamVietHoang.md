@@ -135,7 +135,7 @@ Các cảnh báo LEFT/RIGHT xuất phát từ kiểm tra tọa độ tự độn
 
 3. Một khuôn mặt đã gán 13 điểm, phóng to vùng mắt:
 
-   ![Khuôn mặt phóng to](images/3_mat_phong_to.png)
+   ![Khuôn mặt phóng to](images/3_mat_phong_to.jpg)
 
 4. Một đoạn JSON xuất của một người:
 
